@@ -10,6 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            //3.5. Ввод и вывод в консоль
             string MyName;
             //string MyName = "Jane" можно сразу задать значение
             MyName = "Jane";
