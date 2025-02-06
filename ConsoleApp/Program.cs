@@ -10,6 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            //3.6. Основные операции C#
             string MyName = "Jane";
             byte MyAge = 27;
             bool HaveIApet = true;
